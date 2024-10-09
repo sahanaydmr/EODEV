@@ -1,28 +1,37 @@
-öğrenci ismi
-öğrenci soyismi
-öğrenci tc kimlik numarası
-öğrenci bölümü
-öürenci fakültesi
-öğrenci sınıfı
-öğrenci alt programı
-öğrenci şubesi
-öğrenci epostası
-öğrenci cep telefonu
-öğrenci sınav bilgileri
-öğrenci devamsızlık bilgileri
-öğrenci mesaj kutusu
-öğrenci fotoğrafı
-öğrencinin kütüphane kitap ceza malzeme sayı bilgileri
-öğrencinin kütüphaneden aldığı kitaplar
-öğrencinin kullanılan malzeme listesi
+ogrenci ismi
+ogrenci soyismi
+ogrenci tc kimlik numarasi
+ogrenci bolumu
+ogrenci fakultesi
+ogrenci sinifi
+ogrenci alt programi
+ogrenci subesi
+ogrenci epostasi
+ogrenci cep telefonu
+ogrenci sinav bilgileri
+ogrenci devamsizlik bilgileri
+ogrenci mesaj kutusu
+ogrenci fotoğrafı
+ogrenci dogum tarihi
+ogrenci dogum yeri
+öğrenci mezuniyet tarihi
+ogrenci mezuniyet durumu
+ogrencinin kütüphane kitap ceza malzeme sayı bilgileri
+ogrencinin kütüphaneden aldığı kitaplar
+ogrencinin kullanılan malzeme listesi
+ogrencinin disiplin disiplin cezasi veya uyarilari
+akademik danisman bilgileri
 adres bilgileri
 burs bilgileri
 kredi bilgileri
-öğrenim durumu bilgileri
-dönem dersleri
+ogrenim durumu bilgileri
+donem dersleri
 ders programı
 ders dokumanlari
 ders bilgileri
-sınav programı
-harç bilgileri
+sinav programi
+harc bilgileri
 secili dersin uzaktan ogretim sınav bilgileri
+kayit yenileme bilgileri
+yurt bilgileri
+
